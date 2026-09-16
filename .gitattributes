@@ -1,0 +1,4 @@
+* text=auto eol=lf
+/LICENSE -text
+/test-pages/** -text
+test-pages/* linguist-vendored
