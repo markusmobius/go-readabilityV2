@@ -110,9 +110,9 @@ Speedup is Go-ReadabilityV2's median time divided by each engine's median time.
 
 | Extractor | Median | Range | Speedup vs Go-ReadabilityV2 |
 | --- | ---: | ---: | ---: |
-| Codeberg Go-Readability v2.1.2 | 2,024 ms | 1,916-2,919 ms | 0.96x |
-| Go-ReadabilityV2 | 1,946 ms | 1,836-2,759 ms | 1.00x |
-| Rust-Readability | 952 ms | 878-1,374 ms | 2.04x |
+| Codeberg Go-Readability v2.1.2 | 2,044 ms | 1,854-2,792 ms | 0.96x |
+| Go-ReadabilityV2 | 1,955 ms | 1,811-2,712 ms | 1.00x |
+| Rust-Readability | 960 ms | 876-1,521 ms | 2.04x |
 
 Rust's median speedup was **2.04x over Go-ReadabilityV2** and **2.13x over
 Codeberg**.
@@ -130,7 +130,7 @@ between runs: these are single-machine measurements, not a guaranteed speedup or
 end-to-end reader/network benchmark.
 
 Raw samples, dependency graphs and source/binary fingerprints are retained in
-[benchmark-results-0.6.0.json](benchmark-results-0.6.0.json).
+[benchmark-results-0.6.0-crate.json](benchmark-results-0.6.0-crate.json).
 The runner and reproduction instructions are maintained with
 [Rust-Readability](https://github.com/markusmobius/rust-readability/blob/main/UPSTREAM.md#shared-benchmark).
 
