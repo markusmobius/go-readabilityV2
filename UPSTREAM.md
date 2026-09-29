@@ -1,5 +1,13 @@
 # Upstream Reference
 
+## README Format and Attribution
+
+The September 29 documentation update applies the approved nine-section README
+format and the full requirements in [AGENTS.md](AGENTS.md). Creator credits name
+Arc90 Inc, Mozilla, Radhi Fadlillah, Felipe Martin, the Readeck contributors and
+Markus Mobius. `go-readabilityV2` remains 0.6.0; runtime sources, dependencies,
+tags and historical benchmark evidence are unchanged.
+
 ## Released Suite Benchmark
 
 The [2026-09-29 shared FAST report](https://github.com/markusmobius/content-extractor-benchmark/blob/49c426d6135df81b7d492bea7e6aec8e6d77d80c/go_rust_shared_performance_2026_09_29.json)

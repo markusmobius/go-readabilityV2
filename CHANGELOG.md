@@ -2,11 +2,16 @@
 
 ## Documentation - 2026-09-29
 
+- Apply the approved nine-section README format, including the three shared
+  philosophy principles, a runnable supplied-HTML example and actual options.
+- Specify the full structure and required content in AGENTS.md, including
+  named credits for Arc90 Inc, Mozilla, Radhi Fadlillah, Felipe Martin,
+  the Readeck contributors and Markus Mobius. Remove unrelated package policies.
 - Align the README's six-engine comparison with the September 29 shared
   benchmark, including common units, measured versions and timing boundaries.
 - Add AGENTS.md with instructions for README, UPSTREAM, CHANGELOG and
   coordinated release documentation.
-- Keep Go-ReadabilityV2 0.6.0, runtime source, dependencies and all measured data
+- Keep `go-readabilityV2` 0.6.0, runtime source, dependencies and all measured data
   unchanged. No new module version or benchmark run.
 
 ## Documentation - 2026-09-23
