@@ -1,5 +1,14 @@
 # Changelog
 
+## Documentation - 2026-09-29
+
+- Align the README's six-engine comparison with the September 29 shared
+  benchmark, including common units, measured versions and timing boundaries.
+- Add AGENTS.md with instructions for README, UPSTREAM, CHANGELOG and
+  coordinated release documentation.
+- Keep Go-ReadabilityV2 0.6.0, runtime source, dependencies and all measured data
+  unchanged. No new module version or benchmark run.
+
 ## Documentation - 2026-09-23
 
 - Refresh README quality and six-engine speed comparisons from the published
